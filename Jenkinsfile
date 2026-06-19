@@ -14,7 +14,7 @@ stage('Continuous Deployment')
 }
 stage('Continuous Testing')
 {  
-    git 'https://github.com/IntelliqDevops/FunctionalTesting.git'
+    git 'https://github.com/Vamika321-123/FunctionalTesting.git'
 }
 stage('Continuos Delivery')
 {
