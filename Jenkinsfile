@@ -28,7 +28,7 @@ pipeline
         {
             steps
             {
-                git 'https://github.com/Vamika321-123/FunctionalTesting.git'
+                git 'https://github.com/Vamika321-123/test.git'
                 java -jar /var/lib/jenkins/workspace/Declarative1/testing.jar
             }
         }
